@@ -1,1 +1,1 @@
-# mlnd
+This is repository for my projects from Machine Learning Nanodegree at Udacity.
